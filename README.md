@@ -1,0 +1,1 @@
+# gdg-secret-manager-workshop
