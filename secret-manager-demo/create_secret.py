@@ -46,4 +46,5 @@ def add_secret_version(secret_id: str, payload: str) -> None:
 
 if __name__ == "__main__":
     create_secret(SECRET_ID)
-    add_secret_version(SECRET_ID, "demo-value-v2")
+    add_secret_version(SECRET_ID, "demo-value-v1")
+    #add_secret_version(SECRET_ID, "demo-value-v2")
