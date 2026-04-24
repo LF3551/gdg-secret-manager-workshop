@@ -36,7 +36,8 @@ if __name__ == "__main__":
     print_secret_hash("latest", "latest")
     print_secret_hash("v1", "1")
     print_secret_hash("v2", "2")
+   #print_secret_hash("v3", "3")
 
-    # print("v1 raw:    ", access_secret_version(SECRET_ID, "1"))
-    # print("v2 raw:    ", access_secret_version(SECRET_ID, "2"))
-    print("v3 raw:    ", access_secret_version(SECRET_ID, "3"))
+    #print("v1 raw:    ", access_secret_version(SECRET_ID, "1"))
+    #print("v2 raw:    ", access_secret_version(SECRET_ID, "2"))
+    #print("v3 raw:    ", access_secret_version(SECRET_ID, "3"))
